@@ -7,8 +7,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 Here are some ideas to get you started:asdasd
 
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
