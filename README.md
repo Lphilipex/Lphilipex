@@ -4,8 +4,7 @@
 **Lphilipex/Lphilipex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-Here are some ideas to get you started:asdasd
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
 
