@@ -1,5 +1,11 @@
 ### Print hello world! 👋
 I am Luiz Philipe, a passionate developer interested in web technologies and open source.
+💻 IT & Technical Support  
+📚 Always Learning  
+☕️ Coffee + Code  
+🎮 Gamer in my Free Time  
+👾 Geek  
+🚀 Seeking New Solutions  
 
 <div>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lphilipex&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true"/>
