@@ -12,7 +12,13 @@ I am Luiz Philipe, a passionate developer interested in web technologies and ope
   <img loading="lazy" height="22em" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <img loading="lazy" height="22em" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img loading="lazy" height="22em" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-philipe-barros-machado-050915204/)
+<img loading="lazy" height="22em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-philipe-barros-machado-050915204/"/>
+<!--- <img loading="lazy" height="22em" src=""/> -->
+
+<!--- <img loading="lazy" height="22em" src=""/> -->
+
+
+
 </div>
 
 
